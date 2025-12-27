@@ -5,7 +5,7 @@
 
 print("TAX COLLECTOR:")
 print("Filing Status:")
-print("0 - Single filer")
+print("0 - Single filing")
 print("1 - Married filing jointly or qualified widow(er)")
 print("2 - Married filing separately")
 print("3 - Head of household")
