@@ -1,8 +1,7 @@
-﻿# tax-calculator
-# A simple Python program that calculates federal income tax based on 2009 tax brackets.
+﻿# A personal income tax-calculator
+# That calculates federal income tax for year 2009
 
 ## Features
 - Supports all 4 filing statuses
-- Uses progressive tax bracket system
-- Clean, reusable, and well-commented code
+
 
